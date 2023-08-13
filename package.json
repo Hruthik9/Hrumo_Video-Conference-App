@@ -4,7 +4,7 @@
   "description": "Server for React video chat client",
   "main": "server.js",
   "repository": "https://github.com/somikdatta/video-chat-react-server.git",
-  "author": "Somik Datta <developersomik@gmail.com>",
+  "author": "Hruthik <hruthik.mani23@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "awake-heroku": "^1.0.17",
